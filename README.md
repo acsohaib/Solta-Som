@@ -1,6 +1,6 @@
 # Solta-Som
 
-Mon projet est une expérience audiovisuelle interactive qui tourne autour du Brésil et sa la culture baile funk.
+Mon projet est une expérience audiovisuelle interactive qui tourne autour du Brésil et sa culture Baile Funk.
 
 À partir d’un même morceau, l’écran est divisé en trois zones, chacune proposant une interprétation visuelle différente du son.
 
